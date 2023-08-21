@@ -1,0 +1,5 @@
+{{#user}}
+Name: Teja Reddy Namala
+Skills: Javascript, React, Java, Python, MySQL, HTML/CSS
+Email: tejanamala15@gmail.com
+{{/user}}
